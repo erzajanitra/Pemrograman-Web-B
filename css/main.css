@@ -33,7 +33,7 @@ img{
     padding-left: 4rem;
     padding-right: 4rem;
     padding-bottom: 8rem;
-    /*background: #FEFEF3 url(/img/homebg.jpg);*/
+    background: #FEFEF3 url(img/homebg.jpg);
     -webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
