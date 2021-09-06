@@ -33,7 +33,7 @@ img{
     padding-left: 4rem;
     padding-right: 4rem;
     padding-bottom: 8rem;
-    
+    background: #F8F2F9 !important;
     -webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -43,7 +43,6 @@ img{
 	min-height: 720px;
 	display: table;
 	position: relative;
-	background: #F8F2F9 !important;
 	text-align: center;
 }
 .hero h1 {
