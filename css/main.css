@@ -43,6 +43,7 @@ img{
 	min-height: 720px;
 	display: table;
 	position: relative;
+	background: #F8F2F9 !important;
 	text-align: center;
 }
 .hero h1 {
